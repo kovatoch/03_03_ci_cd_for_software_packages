@@ -18,8 +18,8 @@
       <id>github</id>
       <name>GitHub Packages</name>
 
-      <!-- REPLACE WITH YOUR kovatoch and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/kovatoch/GITHUB_REPONAME</url>
+      <!-- REPLACE WITH YOUR kovatoch and 03_03_ci_cd_for_software_packages -->
+      <url>https://maven.pkg.github.com/kovatoch/03_03_ci_cd_for_software_packages</url>
 
     </repository>
   </distributionManagement>
